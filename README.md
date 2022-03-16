@@ -2,7 +2,7 @@
 
 
 ### Plotly - Dash, Python Dashboard:
-> You can visit deploy from <a href="https://mhmdsyd-covid-tracker.herokuapp.com/"> Here </a>
+> Python Dashboard using Plotly-Dash, you can visit deploy from <a href="https://mhmdsyd-covid-tracker.herokuapp.com/"> Here </a>
 
 https://user-images.githubusercontent.com/70843399/140243606-f3741fdb-0395-480b-9736-6c1a4017d384.mp4
 
